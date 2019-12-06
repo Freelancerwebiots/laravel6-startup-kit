@@ -1,0 +1,13 @@
+.page-sidebar {
+	width: 220px;
+    position: fixed;
+    top: 0;
+    height: calc(100vh);
+    background: #fff;
+    z-index: 1000;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+.page-body {
+	margin-left :220px;
+}
